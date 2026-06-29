@@ -35,7 +35,7 @@ A hands-on AI engineer and systems architect who ships: ST Metro, a Level 5 auto
 
 We become your AI team. We translate the internal discipline behind these systems (cost ledgers, watchdogs, staged release, portability) into plain-English wins for non-technical owners who want to delegate real work to agents and trust it.
 
-→ Read [**How to Train Your Agent**](#-how-to-train-your-agent) · grab the [**prompt goodies**](#prompt-goodies) · [book a call](https://memyselfplusai.com)
+→ Read [**How to Train Your Agent**](#-how-to-train-your-agent) · watch the [**AWS How-To Series**](https://memyselfplusai.com/aws) · grab the [**prompt goodies**](#prompt-goodies) · [book a call](https://memyselfplusai.com)
 
 </td>
 </tr>
@@ -64,6 +64,7 @@ Things you can click right now.
 |------|------|---------------|
 | **ST Metro Visual** | [m2ai-st-metro.github.io/st-metro-visual](https://m2ai-st-metro.github.io/st-metro-visual/) | The full ecosystem, interactive with zone drill-down. |
 | **On the Edge** | [memyselfplusai.com/edge](https://memyselfplusai.com/edge) | The story + series hub. Each card opens a chapter. |
+| **AWS How-To Series** | [memyselfplusai.com/aws](https://memyselfplusai.com/aws) | 12 video walkthroughs: a fresh AWS account → calling Claude on Bedrock. |
 | **Fable Ladder** | [m2ai-portfolio.github.io/fable-ladder](https://m2ai-portfolio.github.io/fable-ladder/) | Interactive walkthrough. |
 | **Engineering Loop** | [m2ai-portfolio.github.io/engineering-loop-showcase](https://m2ai-portfolio.github.io/engineering-loop-showcase/) | The compounding-engineering loop, visualized. |
 
@@ -120,6 +121,18 @@ A 4-part, no-code series for anyone who keeps meaning to "use AI more." You do n
 </table>
 
 ▶ **Read the series:** [memyselfplusai.com/edge](https://memyselfplusai.com/edge) · 🎬 **Video walkthroughs: coming soon.**
+
+---
+
+## ☁️ AWS How-To Series
+
+Brand new to the cloud? A plain-English, click-by-click path from a fresh AWS account to running Claude on Amazon Bedrock. Twelve short screen-recorded walkthroughs, no jargon, nothing skipped.
+
+- **Foundations (start here):** Console Tour · Lock down root + create an admin (MFA & IAM) · Billing budget & cost alerts · Your first S3 bucket · VPC basics · Launch & connect an EC2 server · Set up the AWS CLI · Store a secret in Secrets Manager
+- **Bedrock setup guides:** A tour of Amazon Bedrock · Grant programmatic access (the exact IAM policy) · Create an access key
+- **Bonus:** Call Claude from a Lambda function
+
+▶ **Watch the series:** [memyselfplusai.com/aws](https://memyselfplusai.com/aws)
 
 ---
 
