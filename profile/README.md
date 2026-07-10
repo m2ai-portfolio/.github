@@ -79,6 +79,7 @@ Curated bundles you can install in one step.
 | [m2ai-skills-pack](https://github.com/m2ai-portfolio/m2ai-skills-pack) | Claude Code | Portable Claude Code skills and plugins. 100+ skills in one marketplace. |
 | [claude-desktop-skills](https://github.com/m2ai-portfolio/claude-desktop-skills) | Claude Desktop | 21 production-ready Claude Desktop skills plus a Marketing Agents plugin. |
 | [m2ai-starters](https://github.com/m2ai-portfolio/m2ai-starters) | Any project | Starter templates. Pull one with `npx degit m2ai-portfolio/m2ai-starters/<name> ./project`. |
+| [card-fanout](https://github.com/m2ai-portfolio/card-fanout) | Claude Code | Turn a markdown work card into a parallel agent fan-out: deterministic parsing and guard checks outside, cheap workers and acceptance verdicts inside. |
 
 ---
 
