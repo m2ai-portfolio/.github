@@ -108,7 +108,7 @@ A 4-part, no-code series for anyone who keeps meaning to "use AI more." You do n
 
 <table>
 <tr>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-1"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part1.jpg" width="100%"></a></td>
+<td width="25%"><a href="https://memyselfplusai.com/edge#part-1"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part1-cutaway.jpg" alt="Judgment sorter turning everyday decisions into agent training examples" width="100%"></a></td>
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-2"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part2.jpg" width="100%"></a></td>
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-3"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part3.jpg" width="100%"></a></td>
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-4"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part4.jpg" width="100%"></a></td>
