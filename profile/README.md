@@ -111,7 +111,7 @@ A 4-part, no-code series for anyone who keeps meaning to "use AI more." You do n
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-1"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part1-cutaway.jpg" alt="Judgment sorter turning everyday decisions into agent training examples" width="100%"></a></td>
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-2"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part2-cutaway.jpg" alt="Five-stage specification chamber turning an ambiguous wish into a runnable agent job" width="100%"></a></td>
 <td width="25%"><a href="https://memyselfplusai.com/edge#part-3"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part3-cutaway.jpg" alt="Verification range previewing agent actions, applying dual safeguards, and gradually widening trust" width="100%"></a></td>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-4"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part4.jpg" width="100%"></a></td>
+<td width="25%"><a href="https://memyselfplusai.com/edge#part-4"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part4-cutaway.jpg" alt="Dispatcher coordinating four bounded specialist agents through shared review into one completed output" width="100%"></a></td>
 </tr>
 <tr>
 <td valign="top"><b>1. You're Already Doing the Training</b><br>Your everyday "keep this, skip that" calls ARE the training data.</td>
