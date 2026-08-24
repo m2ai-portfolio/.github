@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/hero.jpg" alt="M2AI: building on the edge of AI" width="100%">
+<img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/hero-ai-cutaway.png" alt="M2AI multi-agent AI system: data intake, orchestration, shared memory, evaluation, safeguards, and deployment" width="100%">
 
 # M2AI
 
