@@ -1,174 +1,133 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/hero-ai-cutaway.png" alt="M2AI multi-agent AI system: data intake, orchestration, shared memory, evaluation, safeguards, and deployment" width="100%">
+<img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/hero-ai-cutaway.png" alt="M2AI system: workflow intake, orchestration, shared memory, evaluation, safeguards, and deployment" width="100%">
 
 # M2AI
 
-### Building on the edge of AI
+### AI enhancement, enablement, and execution
 
-**me² + AI.** Production AI agent systems, Model Context Protocol tooling, and multi-agent orchestration, built and shipped in the open by [Matthew Snow](https://github.com/MatthewSnow2).
+M2AI helps teams adopt AI and automation without lowering their standards. We begin with one bounded workflow, preserve human judgment, measure the result, and expand only after the system earns trust.
 
-[![Live page](https://img.shields.io/badge/memyselfplusai.com-On_the_Edge-06b6d4?style=for-the-badge)](https://memyselfplusai.com/edge)
-[![Skills](https://img.shields.io/badge/Skill_packs-100%2B-14b8a6?style=for-the-badge)](https://github.com/m2ai-portfolio/m2ai-skills-pack)
-[![ST Metro](https://img.shields.io/badge/ST_Metro-Level_5_pipeline-e85d04?style=for-the-badge)](#on-the-edge-what-i-build)
+Built and taught in the open by [Matthew Snow](https://github.com/MatthewSnow2).
 
-This is the front door. Start here instead of scrolling the repo list.
+[![M2AI](https://img.shields.io/badge/memyselfplusai.com-Start_here-06b6d4?style=for-the-badge)](https://memyselfplusai.com)
+[![Learn](https://img.shields.io/badge/Practical_AI-Learn-14b8a6?style=for-the-badge)](https://memyselfplusai.com)
+[![Proof](https://img.shields.io/badge/Proof_of_work-Explore-e85d04?style=for-the-badge)](#selected-proof-of-work)
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## What I'm working on now
 
-### 👋 If you're hiring
+_Last updated: August 2026_
 
-A hands-on AI engineer and systems architect who ships: ST Metro, a Level 5 autonomous build pipeline; CMD, a live multi-agent command center; a second-brain memory layer; and ChartingHero, voice-AI in a regulated (HIPAA) domain. Builder-first IC who tracks the frontier and turns papers into working prototypes.
+- **Team AI enablement** — practical workshops built around three disciplines: map and bound the automation, define and verify quality, and keep people accountable for judgment.
+- **Safe first workflows** — helping teams start with one visible, manageable use case before committing to a larger system or an agent.
+- **Agent infrastructure** — building and testing the orchestration, memory, evaluation, safeguards, and reusable skills required when the work genuinely needs agents.
 
-→ Jump to [**what I build**](#on-the-edge-what-i-build) · [**live demos**](#live-demos) · [memyselfplusai.com](https://memyselfplusai.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤝 If you're a founder
-
-We become your AI team. We translate the internal discipline behind these systems (cost ledgers, watchdogs, staged release, portability) into plain-English wins for non-technical owners who want to delegate real work to agents and trust it.
-
-→ Read [**How to Train Your Agent**](#-how-to-train-your-agent) · watch the [**AWS How-To Series**](https://memyselfplusai.com/aws) · grab the [**prompt goodies**](#prompt-goodies) · [book a call](https://memyselfplusai.com)
-
-</td>
-</tr>
-</table>
+The current operating principle is simple: **start with a workshop, continue if it earns it.**
 
 ---
 
-## On the edge: what I build
+## Start here
 
-Proof of work, not promises.
-
-| Built | What it is | Signal |
-|-------|-----------|--------|
-| **ST Metro** | A Level 5 autonomous software-production pipeline: a multi-agent ecosystem that carries an idea through to a shipped product. | [Interactive ecosystem visual](https://m2ai-st-metro.github.io/st-metro-visual/) with zone drill-down. |
-| **CMD (Command Center)** | The control plane that dispatches real agents to missions and reviews their output through a judge / reasoner loop. | Production multi-agent orchestration, not a demo. |
-| **Second Brain** | A hub-and-spoke knowledge warehouse and shared memory layer. Agents capture signals, recall decisions, and compound what they learn across runs. | Agents that remember and improve. |
-| **ChartingHero** | Voice-AI clinical documentation: speech-to-text + Claude API + EMR tool-calling. | ~70% less documentation time in early deployment, HIPAA-compliant. |
+- **[Learn the approach](https://memyselfplusai.com)** — practical AI education for teams, from frontier applications to bounded automations.
+- **[Train your judgment](https://memyselfplusai.com/edge)** — a plain-English series for giving AI a job with edges and proving it before trusting it.
+- **[Explore the open-source tools](https://github.com/m2ai-portfolio/m2ai-skills-pack)** — reusable skills, plugins, templates, and agent tooling.
+- **[See the proof](#selected-proof-of-work)** — working systems and live demonstrations, not slideware.
 
 ---
 
-## Live demos
+## The operating discipline
 
-Things you can click right now.
+### 1. Enhancement
 
-| Demo | Live | What it shows |
-|------|------|---------------|
-| **ST Metro Visual** | [m2ai-st-metro.github.io/st-metro-visual](https://m2ai-st-metro.github.io/st-metro-visual/) | The full ecosystem, interactive with zone drill-down. |
-| **On the Edge** | [memyselfplusai.com/edge](https://memyselfplusai.com/edge) | The story + series hub. Each card opens a chapter. |
-| **AWS How-To Series** | [memyselfplusai.com/aws](https://memyselfplusai.com/aws) | 12 video walkthroughs: a fresh AWS account → calling Claude on Bedrock. |
-| **Fable Ladder** | [m2ai-portfolio.github.io/fable-ladder](https://m2ai-portfolio.github.io/fable-ladder/) | Interactive walkthrough. |
-| **Engineering Loop** | [m2ai-portfolio.github.io/engineering-loop-showcase](https://m2ai-portfolio.github.io/engineering-loop-showcase/) | The compounding-engineering loop, visualized. |
+Use AI to improve work people already understand. Choose a workflow with visible value, clear boundaries, and manageable risk.
 
----
+### 2. Enablement
 
-## Skill & agent packs
+Teach the people closest to the work how to define quality, exercise judgment, and supervise the system rather than becoming dependent on it.
 
-Curated bundles you can install in one step.
+### 3. Execution
 
-| Pack | For | What it is |
-|------|-----|-----------|
-| [m2ai-skills-pack](https://github.com/m2ai-portfolio/m2ai-skills-pack) | Claude Code | Portable Claude Code skills and plugins. 100+ skills in one marketplace. |
-| [claude-desktop-skills](https://github.com/m2ai-portfolio/claude-desktop-skills) | Claude Desktop | 21 production-ready Claude Desktop skills plus a Marketing Agents plugin. |
-| [m2ai-starters](https://github.com/m2ai-portfolio/m2ai-starters) | Any project | Starter templates. Pull one with `npx degit m2ai-portfolio/m2ai-starters/<name> ./project`. |
-| [card-fanout](https://github.com/m2ai-portfolio/card-fanout) | Claude Code | Turn a markdown work card into a parallel agent fan-out: deterministic parsing and guard checks outside, cheap workers and acceptance verdicts inside. |
+Implement the smallest system that can produce a measurable result. Keep human approval where consequences, ambiguity, or risk require it.
+
+### 4. Expansion
+
+Add automation or agents one workflow at a time, only after the previous system has demonstrated reliability and adoption.
 
 ---
 
-## Featured projects
+## Selected proof of work
 
-<table>
-<tr>
-<td width="25%"><a href="https://github.com/m2ai-portfolio/agenttrace"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/thumb-agenttrace.jpg" width="100%"></a></td>
-<td width="25%"><a href="https://github.com/m2ai-portfolio/claudeflow"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/thumb-claudeflow.jpg" width="100%"></a></td>
-<td width="25%"><a href="https://github.com/m2ai-portfolio/taskflow-mcp-server"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/thumb-taskflow.jpg" width="100%"></a></td>
-<td width="25%"><a href="https://github.com/m2ai-portfolio/mythos-jr"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/thumb-mythos.jpg" width="100%"></a></td>
-</tr>
-<tr>
-<td valign="top"><b><a href="https://github.com/m2ai-portfolio/agenttrace">agenttrace</a></b><br>Logs the reasoning behind code changes and adds spaced repetition so the intent behind a change is not lost.</td>
-<td valign="top"><b><a href="https://github.com/m2ai-portfolio/claudeflow">claudeflow</a></b><br>Unified AI coding assistant with fallback models and fast research.</td>
-<td valign="top"><b><a href="https://github.com/m2ai-portfolio/taskflow-mcp-server">taskflow-mcp-server</a></b><br>Durable task management MCP server for long-running agentic workflows.</td>
-<td valign="top"><b><a href="https://github.com/m2ai-portfolio/mythos-jr">mythos-jr</a></b><br>Non-initiating defensive cybersecurity worker agent (Claude Agent SDK + A2A).</td>
-</tr>
-</table>
+| Project | What it demonstrates | Explore |
+|---|---|---|
+| **ST Metro** | A multi-agent software-production ecosystem that can carry an idea through planning, implementation, review, and delivery. It demonstrates the advanced end of the M2AI spectrum—not the default starting point for every workflow. | [Interactive ecosystem visual](https://m2ai-st-metro.github.io/st-metro-visual/) |
+| **ChartingHero** | Voice-AI clinical documentation combining speech-to-text, model reasoning, and EMR tool use in a regulated environment. Early deployment reduced documentation time by approximately 70%. | [Read the proof-of-work overview](https://memyselfplusai.com/edge#proof) |
+| **M2AI Skills Pack** | More than 100 reusable Claude Code skills and plugins, packaged so proven operating knowledge can move between projects instead of being rebuilt each time. | [Browse the skills pack](https://github.com/m2ai-portfolio/m2ai-skills-pack) |
+
+### Live demonstrations
+
+- **[ST Metro Visual](https://m2ai-st-metro.github.io/st-metro-visual/)** — explore the full ecosystem with zone-level drill-down.
+- **[Fable Ladder](https://m2ai-portfolio.github.io/fable-ladder/)** — an interactive walkthrough of staged progression.
+- **[Engineering Loop](https://m2ai-portfolio.github.io/engineering-loop-showcase/)** — the compounding engineering loop, visualized.
 
 ---
 
-## 🐉 How to Train Your Agent
+## Practical guides and learning hubs
 
-A 4-part, no-code series for anyone who keeps meaning to "use AI more." You do not program an agent. You **train** one, the way you train a sharp new hire: show it your judgment, give it a job with edges, prove it before you trust it, then build a team.
+### [How to Train Your Agent](https://memyselfplusai.com/edge)
 
-<table>
-<tr>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-1"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part1-cutaway.jpg" alt="Judgment sorter turning everyday decisions into agent training examples" width="100%"></a></td>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-2"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part2-cutaway.jpg" alt="Five-stage specification chamber turning an ambiguous wish into a runnable agent job" width="100%"></a></td>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-3"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part3-cutaway.jpg" alt="Verification range previewing agent actions, applying dual safeguards, and gradually widening trust" width="100%"></a></td>
-<td width="25%"><a href="https://memyselfplusai.com/edge#part-4"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/card-part4-cutaway.jpg" alt="Dispatcher coordinating four bounded specialist agents through shared review into one completed output" width="100%"></a></td>
-</tr>
-<tr>
-<td valign="top"><b>1. You're Already Doing the Training</b><br>Your everyday "keep this, skip that" calls ARE the training data.</td>
-<td valign="top"><b>2. Give It a Job With Edges</b><br>Turn a fuzzy wish into a job an agent can actually run.</td>
-<td valign="top"><b>3. Prove It Before You Trust It</b><br>Trust is built, not given.</td>
-<td valign="top"><b>4. Build a Team, Not a Cuttlefish</b><br>One agent, one job; grow into a roster.</td>
-</tr>
-</table>
+A four-part, no-code path for turning everyday judgment into bounded, testable agent behavior:
 
-▶ **Read the series:** [memyselfplusai.com/edge](https://memyselfplusai.com/edge) · 🎬 **Video walkthroughs: coming soon.**
+1. **You're Already Doing the Training** — your everyday decisions are examples of your judgment.
+2. **Give It a Job With Edges** — turn a fuzzy wish into a job the system can actually run.
+3. **Prove It Before You Trust It** — widen autonomy only after verification.
+4. **Build a Team, Not a Cuttlefish** — give each agent one bounded responsibility.
+
+### [AWS How-To Series](https://memyselfplusai.com/aws)
+
+Twelve plain-English, screen-recorded walkthroughs from a new AWS account to calling Claude through Amazon Bedrock.
+
+### [Prompt Goodies](https://memyselfplusai.com/edge#prompt-goodies)
+
+Copy-ready delegation patterns for demanding evidence, defining ownership, constraining scope, and verifying that work is actually complete.
 
 ---
 
-## ☁️ AWS How-To Series
+## Open-source toolbox
 
-Brand new to the cloud? A plain-English, click-by-click path from a fresh AWS account to running Claude on Amazon Bedrock. Twelve short screen-recorded walkthroughs, no jargon, nothing skipped.
+| Project | Use it for |
+|---|---|
+| **[m2ai-skills-pack](https://github.com/m2ai-portfolio/m2ai-skills-pack)** | Portable Claude Code skills and plugins. |
+| **[claude-desktop-skills](https://github.com/m2ai-portfolio/claude-desktop-skills)** | Production-ready skills and a marketing-agents plugin for Claude Desktop. |
+| **[m2ai-starters](https://github.com/m2ai-portfolio/m2ai-starters)** | Starter templates for new projects. |
+| **[card-fanout](https://github.com/m2ai-portfolio/card-fanout)** | Turn a bounded work specification into guarded parallel agent execution. |
 
-- **Foundations (start here):** Console Tour · Lock down root + create an admin (MFA & IAM) · Billing budget & cost alerts · Your first S3 bucket · VPC basics · Launch & connect an EC2 server · Set up the AWS CLI · Store a secret in Secrets Manager
-- **Bedrock setup guides:** A tour of Amazon Bedrock · Grant programmatic access (the exact IAM policy) · Create an access key
-- **Bonus:** Call Claude from a Lambda function
-
-▶ **Watch the series:** [memyselfplusai.com/aws](https://memyselfplusai.com/aws)
-
----
-
-## Prompt goodies
-
-An escalating ladder of copy-paste delegation-prompt patterns, extracted from prompts a frontier model wrote for *itself* while orchestrating subagents. Each rung is a paste-ready asset, not a lecture. Rungs 1-5 work on any task you hand an AI; 6-8 are for when multiple agents share a workspace.
-
-1. **Show me the receipt:** demand the exact command + output, not a claim of "done."
-2. **Stay in your lane:** say what NOT to touch, and who owns it.
-3. **Iterate until green:** give the verify command; passing it *is* the definition of done.
-4. **Warn them about your house:** relay your environment's quirks, with the workaround.
-5. **Name the slop:** quote the bad output you don't want, instead of asking for "high quality."
-6. **Pin the contract:** paste the shared interface verbatim into every worker's prompt.
-7. **Least privilege you can grep:** the permission list must be greppable against actual use, both directions.
-8. **The never list:** define each agent by what it refuses to do, pointing at the neighbor who owns it.
-
-▶ **Get the copy-paste blocks:** [memyselfplusai.com/edge#prompt-goodies](https://memyselfplusai.com/edge#prompt-goodies)
+**Recently active:** [view repositories by latest update](https://github.com/orgs/m2ai-portfolio/repositories?q=archived%3Afalse&sort=updated)
 
 ---
 
-## 🎓 Work with me
+## Work with M2AI
 
-Want to build your own agents? Join the **Early AI-Dopters** community on Skool. Every subscription includes a 1:1, agent-specific coaching call: we set up your first trained agent together, start to finish.
+Every engagement starts with a short diagnostic and a practical workshop using your team's real workflows. You leave with a bounded use case, explicit quality criteria, clear human-accountability points, and a 30-day application plan.
 
-▶ **[Join Early AI-Dopters → get your coaching call](https://www.skool.com/earlyaidopters/about?ref=9a7b59dfbd814636a81171ef857082bc)**
+Teams can continue into a capability sprint, train-the-trainer program, or advisory engagement—but only when the first step demonstrates enough value to justify the next one.
+
+**[Plan a team workshop →](https://memyselfplusai.com)**
+
+---
+
+## About Matthew
+
+[Matthew Snow](https://github.com/MatthewSnow2) is the founder of M2AI. He builds applied AI systems, teaches teams how to use them responsibly, and publishes the underlying tools and operating lessons in the open.
+
+[Website](https://memyselfplusai.com) · [LinkedIn](https://linkedin.com/in/matthewsnow2) · [GitHub](https://github.com/MatthewSnow2)
 
 ---
 
 ## Browse everything
 
-Filter the full org instead of scrolling:
-
-- Showcase products: [`topic:showcase`](https://github.com/orgs/m2ai-portfolio/repositories?q=topic%3Ashowcase)
-- All active repos: [m2ai-portfolio repositories](https://github.com/orgs/m2ai-portfolio/repositories?q=archived%3Afalse)
-
-## Contact
-
-Matthew Snow · [memyselfplusai.com](https://memyselfplusai.com) · [LinkedIn](https://linkedin.com/in/matthewsnow2) · [@MatthewSnow2](https://github.com/MatthewSnow2)
+- [Showcase projects](https://github.com/orgs/m2ai-portfolio/repositories?q=topic%3Ashowcase)
+- [All active repositories](https://github.com/orgs/m2ai-portfolio/repositories?q=archived%3Afalse)
