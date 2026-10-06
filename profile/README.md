@@ -72,6 +72,7 @@ Add automation or agents one workflow at a time, only after the previous system 
 - **[ST Metro Visual](https://m2ai-st-metro.github.io/st-metro-visual/)** — explore the full ecosystem with zone-level drill-down.
 - **[Fable Ladder](https://m2ai-portfolio.github.io/fable-ladder/)** — an interactive walkthrough of staged progression.
 - **[Engineering Loop](https://m2ai-portfolio.github.io/engineering-loop-showcase/)** — the compounding engineering loop, visualized.
+- **[Auto-handoff for Claude Code](https://m2ai-portfolio.github.io/claude-mods/)**: two short videos on what the mod does and how to set it up in about two minutes.
 
 ---
 
@@ -104,6 +105,7 @@ Copy-ready delegation patterns for demanding evidence, defining ownership, const
 | **[claude-desktop-skills](https://github.com/m2ai-portfolio/claude-desktop-skills)** | Production-ready skills and a marketing-agents plugin for Claude Desktop. |
 | **[m2ai-starters](https://github.com/m2ai-portfolio/m2ai-starters)** | Starter templates for new projects. |
 | **[card-fanout](https://github.com/m2ai-portfolio/card-fanout)** | Turn a bounded work specification into guarded parallel agent execution. |
+| **[claude-mods](https://github.com/m2ai-portfolio/claude-mods)** | Claude Code mods plus the `/next` and `/prime` session-handoff skills ([watch the videos](https://m2ai-portfolio.github.io/claude-mods/)). |
 
 **Recently active:** [view repositories by latest update](https://github.com/orgs/m2ai-portfolio/repositories?q=archived%3Afalse&sort=updated)
 
