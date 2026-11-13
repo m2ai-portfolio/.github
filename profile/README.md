@@ -12,9 +12,24 @@ Built and taught in the open by [Matthew Snow](https://github.com/MatthewSnow2).
 
 [![M2AI](https://img.shields.io/badge/memyselfplusai.com-Start_here-06b6d4?style=for-the-badge)](https://memyselfplusai.com)
 [![Learn](https://img.shields.io/badge/Practical_AI-Learn-14b8a6?style=for-the-badge)](https://memyselfplusai.com)
-[![Proof](https://img.shields.io/badge/Proof_of_work-Explore-e85d04?style=for-the-badge)](#selected-proof-of-work)
+[![Gumroad](https://img.shields.io/badge/Gumroad_marketplace-Get_the_kits-ff90e8?style=for-the-badge)](https://snowdrift840.gumroad.com)
+[![Proof](https://img.shields.io/badge/Recent_projects-Explore-e85d04?style=for-the-badge)](#recent-projects)
 
 </div>
+
+---
+
+## Latest drops
+
+Tested kits on the [M2AI Gumroad marketplace](https://snowdrift840.gumroad.com). The code is free and open source; each kit adds a walkthrough run from the ZIP, measured numbers and the failures we hit. Pay what you want.
+
+| | Resource | Watch / Code | Get it |
+|---|---|---|---|
+| <a href="https://youtu.be/pjZooydbmEc"><img src="https://i.ytimg.com/vi/pjZooydbmEc/maxresdefault.jpg" alt="Agent Swarm: map a code repo with checked findings" width="200"></a> | [Agent Swarm: map a code repo with checked findings](https://snowdrift840.gumroad.com/l/swarm-discovery-kit) | [▶ Watch](https://youtu.be/pjZooydbmEc) | [Gumroad](https://snowdrift840.gumroad.com/l/swarm-discovery-kit) |
+| <a href="https://snowdrift840.gumroad.com/l/matrix-kit"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/drop-matrix-kit.png" alt="Matrix: searchable memory for your AI chats" width="200"></a> | [Matrix: searchable memory for your AI chats](https://snowdrift840.gumroad.com/l/matrix-kit) | [Code](https://github.com/m2ai-portfolio/matrix) | [Gumroad](https://snowdrift840.gumroad.com/l/matrix-kit) |
+| <a href="https://snowdrift840.gumroad.com/l/mythos-jr-kit"><img src="https://raw.githubusercontent.com/m2ai-portfolio/.github/main/profile/assets/drop-mythos-jr-kit.png" alt="Mythos Jr: defensive security agent kit" width="200"></a> | [Mythos Jr: defensive security agent kit](https://snowdrift840.gumroad.com/l/mythos-jr-kit) | [Code](https://github.com/m2ai-portfolio/mythos-jr) | [Gumroad](https://snowdrift840.gumroad.com/l/mythos-jr-kit) |
+
+**[See every kit on Gumroad](https://snowdrift840.gumroad.com)**
 
 ---
 
@@ -35,7 +50,7 @@ The current operating principle is simple: **start with a workshop, continue if 
 - **[Learn the approach](https://memyselfplusai.com)** — practical AI education for teams, from frontier applications to bounded automations.
 - **[Train your judgment](https://memyselfplusai.com/edge)** — a plain-English series for giving AI a job with edges and proving it before trusting it.
 - **[Explore the open-source tools](https://github.com/m2ai-portfolio/m2ai-skills-pack)** — reusable skills, plugins, templates, and agent tooling.
-- **[See the proof](#selected-proof-of-work)** — working systems and live demonstrations, not slideware.
+- **[See the proof](#recent-projects)** — working systems and live demonstrations, not slideware.
 
 ---
 
@@ -59,11 +74,11 @@ Add automation or agents one workflow at a time, only after the previous system 
 
 ---
 
-## Selected proof of work
+## Recent projects
 
 | Project | What it demonstrates | Explore |
 |---|---|---|
-| **ST Metro** | A multi-agent software-production ecosystem that can carry an idea through planning, implementation, review, and delivery. It demonstrates the advanced end of the M2AI spectrum—not the default starting point for every workflow. | [Interactive ecosystem visual](https://m2ai-st-metro.github.io/st-metro-visual/) |
+| **Matrix** | One searchable memory for every AI tool a team uses, so decisions and lessons stop disappearing into separate chat windows. Local-first and read-only against source systems, with an evaluation harness that reports honestly where it falls short. It shows the shared-memory layer behind agents that hand work to each other. | [Browse the repository](https://github.com/m2ai-portfolio/matrix) |
 | **ChartingHero** | Voice-AI clinical documentation combining speech-to-text, model reasoning, and EMR tool use in a regulated environment. Early deployment reduced documentation time by approximately 70%. | [Read the proof-of-work overview](https://memyselfplusai.com/edge#proof) |
 | **M2AI Skills Pack** | More than 100 reusable Claude Code skills and plugins, packaged so proven operating knowledge can move between projects instead of being rebuilt each time. | [Browse the skills pack](https://github.com/m2ai-portfolio/m2ai-skills-pack) |
 
@@ -101,7 +116,6 @@ Copy-ready delegation patterns for demanding evidence, defining ownership, const
 
 | Project | Use it for |
 |---|---|
-| **[m2ai-skills-pack](https://github.com/m2ai-portfolio/m2ai-skills-pack)** | Portable Claude Code skills and plugins. |
 | **[claude-desktop-skills](https://github.com/m2ai-portfolio/claude-desktop-skills)** | Production-ready skills and a marketing-agents plugin for Claude Desktop. |
 | **[m2ai-starters](https://github.com/m2ai-portfolio/m2ai-starters)** | Starter templates for new projects. |
 | **[card-fanout](https://github.com/m2ai-portfolio/card-fanout)** | Turn a bounded work specification into guarded parallel agent execution. |
